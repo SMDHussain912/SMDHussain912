@@ -79,6 +79,25 @@ More: [THE-SYSTEM](https://github.com/SMDHussain912/THE-SYSTEM) (a Solo Leveling
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+## GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SMDHussain912&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMDHussain912&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SMDHussain912&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SMDHussain912&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SMDHussain912&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 ## Currently exploring
 
 Cybersecurity and DevOps. Next project ideas: **ArcShield**, a network defence tool that detects attacks and preserves evidence for reporting, and **ArcOS**, a lightweight operating system.
