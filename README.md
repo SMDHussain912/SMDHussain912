@@ -91,7 +91,7 @@ More: [THE-SYSTEM](https://github.com/SMDHussain912/THE-SYSTEM) (a Solo Leveling
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SMDHussain912&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+  <img src="https://ghchart.rshah.org/2f81f7/SMDHussain912" alt="SMDHussain912's contribution calendar" />
 </p>
 
 <p align="center">
