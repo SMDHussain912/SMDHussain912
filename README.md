@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/smd-hussain-996088430"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/shaik-mahammad-hussain-996088430/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Open%20to-Internships-2ea44f?style=flat" alt="Open to internships">
   <img src="https://img.shields.io/badge/Location-Andhra%20Pradesh%2C%20India-555?style=flat" alt="Location">
 </p>
